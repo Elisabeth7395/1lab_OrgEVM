@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\lizal\desktop\лэти\оргэвм\лаба 1\лаба 1\source.cpp(40): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  Лаба 1.vcxproj -> C:\Users\lizal\Desktop\ЛЭТИ\ОргЭВМ\Лаба 1\Debug\Лаба 1.exe
+  Лаба 1.vcxproj -> C:\Users\lizal\Desktop\ЛЭТИ\ОргЭВМ\Лаба 1\Debug\Лаба 1.pdb (Partial PDB)
